@@ -6,7 +6,7 @@ collection of different chatbots I've made.
 
 **chatbotv2** - implemented GUI using tkinter. Only 3 games in this version
 
-**chatbotv3** - more advanced chatbot, uisng the chatterbot library to implement Natural language processing
+**chatbotv3** - more advanced chatbot, uisng the chatterbot library to implement Natural language processing. Trained using yml files from data folder
 
 **chatbotv4** - chatbotv3 but with GUI, again with tkinter
 
