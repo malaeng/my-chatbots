@@ -11,3 +11,5 @@ collection of different chatbots I've made.
 **chatbotv4** - chatbotv3 but with GUI, again with tkinter
 
 **chatbotv5** - a combination of all previous chatbots - 3 games, NLP, and GUI
+
+To run on your machine, you may need to install some python libraries
